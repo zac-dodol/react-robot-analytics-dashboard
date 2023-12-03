@@ -10,6 +10,9 @@ Documentation provided in the readme file.
 
 File structure includes components folder for all analytics purposes and data in another folder for better readability and separation.
 
+[Robot Operation Analytics Dashboard preview.webm](https://github.com/zac-dodol/react-robot-analytics-dashboard/assets/46713066/3522292e-3790-4f6f-ade7-d90d29078d1d)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
