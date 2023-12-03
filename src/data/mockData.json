@@ -1,0 +1,76 @@
+{
+  "metric1": {
+    "lineChartData": {
+      "labels": ["Day 1", "Day 2", "Day 3", "Day 4", "Day 5"],
+      "datasets": [
+        {
+          "label": "Robot Performance",
+          "data": [30, 45, 60, 80, 95],
+          "fill": false,
+          "borderColor": "rgba(75,192,192,1)"
+        }
+      ]
+    },
+    "barChartData": {
+      "labels": ["Robot A", "Robot B", "Robot C", "Robot D", "Robot E"],
+      "datasets": [
+        {
+          "label": "Errors",
+          "data": [2, 1, 5, 0, 3],
+          "backgroundColor": "rgba(255,99,132,0.6)"
+        }
+      ]
+    },
+    "pieChartData": {
+      "labels": ["Normal", "Warning", "Error"],
+      "datasets": [
+        {
+          "data": [70, 20, 10],
+          "backgroundColor": [
+            "rgba(75,192,192,0.6)",
+            "rgba(255,206,86,0.6)",
+            "rgba(255,99,132,0.6)"
+          ]
+        }
+      ]
+    },
+    "robotCount": 100
+  },
+  "metric2": {
+    "lineChartData": {
+      "labels": ["Day 1", "Day 2", "Day 3", "Day 4", "Day 5"],
+      "datasets": [
+        {
+          "label": "Robot Performance",
+          "data": [20, 35, 50, 70, 85],
+          "fill": false,
+          "borderColor": "rgba(75,192,192,1)"
+        }
+      ]
+    },
+    "barChartData": {
+      "labels": ["Robot A", "Robot B", "Robot C", "Robot D", "Robot E"],
+      "datasets": [
+        {
+          "label": "Errors",
+          "data": [1, 2, 3, 4, 0],
+          "backgroundColor": "rgba(255,99,132,0.6)"
+        }
+      ]
+    },
+    "pieChartData": {
+      "labels": ["Normal", "Warning", "Error"],
+      "datasets": [
+        {
+          "data": [60, 30, 10],
+          "backgroundColor": [
+            "rgba(75,192,192,0.6)",
+            "rgba(255,206,86,0.6)",
+            "rgba(255,99,132,0.6)"
+          ]
+        }
+      ]
+    },
+    "robotCount": 120
+  }
+}
